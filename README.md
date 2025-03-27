@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Isabela Bedoya Gaviria
+## Software Engineer
+I am passionate about programming, music, and learning new things. I am good at working in a team and I am always constantly learning.
+- I'm from Colombia.
+- I am a Systems Engineering student at the University of Antioquia.
 
-<!--
-**Isa-Bedoya-UdeA/Isa-Bedoya-UdeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Git.
+- JavaScript.
+- HTML.
+- CSS.
+- Sass.
+- JavaScript.
+- React JS.
+- Node JS.
+- PostgreSQL.
