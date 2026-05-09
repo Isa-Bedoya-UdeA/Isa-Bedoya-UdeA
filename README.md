@@ -9,6 +9,7 @@ I am passionate about programming, music, and learning new things. I am good at 
 ### Web
 - HTML/CSS/JS.
 - Sass.
+- TypeScript.
 - React JS.
 - Node JS.
 - Java Spring Boot.
@@ -24,4 +25,8 @@ I am passionate about programming, music, and learning new things. I am good at 
 - C#.
 - Java.
 - Android Studio.
-- Git.
+- Git/github.
+- Airtable.
+- Fillout.
+- N8N.
+- Power BI.
